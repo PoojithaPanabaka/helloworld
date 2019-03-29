@@ -1,2 +1,2 @@
 # helloworld
-my first repository
+print("Hello World")
